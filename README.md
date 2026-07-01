@@ -1,1 +1,0 @@
-# ZmanIt-Delete-Account
