@@ -1,13 +1,10 @@
-How to Delete Your ZmanIt Account
+Delete Account
 
-1. You can permanently delete your ZmanIt account and all associated personal data directly within the application by following these steps:
+1. Open the ZmanIt app.
+2. Tap Settings.
+3. Tap Account management.
+4. Tap Delete Account Permanently.
+5. Send the email that opens to zmanitsupport@gmail.com.
+6. Wait for confirmation that your account and data were deleted.
 
-2. Open the App: Launch the ZmanIt application on your device.
-
-3. Navigate to Settings: Tap the Settings icon (gear icon) on the far right of the bottom navigation bar.
-
-4. Access Account Management: Scroll down to the bottom of the Settings page to find the "Account Management" section.
-
-5. Initiate Deletion: Tap the "Delete Account Permanently" button, located directly below the Logout button.
-
-6. Confirm Your Choice: A confirmation dialog will appear. Review the information and tap "Delete" to proceed.
+If you have a subscription, cancel it in Google Play → Payments & subscriptions (or Settings → Account management → Manage subscription in Google Play).
